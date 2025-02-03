@@ -13,3 +13,40 @@ This program takes a list of numbers from the user and separates them into even 
 ```sh
 javac EvenOddArrays.java
 java EvenOddArrays
+
+
+
+
+# Array and ArrayList Conversion in Java
+
+This project demonstrates how to convert an array into an `ArrayList` and vice versa in Java. The example includes basic string data to show both conversions.
+
+## Features:
+- Convert an array to an `ArrayList`
+- Convert an `ArrayList` back to an array
+
+## How to Run:
+1. Clone the repository:
+    ```bash
+    git clone <repository_url>
+    ```
+
+2. Compile the Java file:
+    ```bash
+    javac ArrayAndArrayListConversion.java
+    ```
+
+3. Run the compiled Java file:
+    ```bash
+    java ArrayAndArrayListConversion
+    ```
+
+## Example Output:
+
+## Requirements:
+- Java 8 or higher
+
+## Author:
+Pankaj Yadav
+
+
